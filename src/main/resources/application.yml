@@ -34,3 +34,4 @@ api:
   security:
     token:
       secret: "OUJWeHM3OUJMPi80SzQ7O0tsQWFNZHtYOmopYWVJVFYK"
+
